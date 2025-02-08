@@ -27,5 +27,3 @@ rm com.tux.Tailor.conf
 
 cp tmp.conf com.tux.Tailor.conf 
 rm tmp.conf
-
-systemctl daemon-reload
